@@ -5,5 +5,5 @@
 
 **How to use**
 
-npm run dev 
-Goto: localhost:5000
+* npm run dev 
+* Goto: localhost:5000
